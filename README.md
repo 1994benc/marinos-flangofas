@@ -1,4 +1,5 @@
-# fresh project
+# Marc's personal website
+## Made by Ben Chomsang
 
 ### Usage
 
